@@ -8,7 +8,7 @@
 
   <h2 align="center">React Native Fitness App</h2>
 
-In this project, I have created a Fitness App as part of my Summer Internship.  
+In this project, I have created a Fitness App.  
  The project is built using Expo, React Native, and React Navigation.  
  This app helps users follow guided workout plans with progress tracking.
 
@@ -74,18 +74,4 @@ Like `npm start` / `yarn start`, but also attempts to open your app on a connect
 
 ### 👨‍💻 About Developer
 
-**🙋‍♂️ Kishan Sardhara**  
-React Native Enthusiast | Nirma University  
-Developed this app as part of **Summer Internship 2025**.
-
-> _"I believe in building impactful apps with elegant UI and practical UX."_
-
-### Contact
-
-If you want to contact me you can reach me at [Kishan Sardhara](https://www.linkedin.com/in/kishan-sardhara-36b345224/).
-
-### License
-
-This project is for academic/internship purpose only. Educational use is permitted.
-
-✅ Developed with ❤️ by Kishan Sardhara
+✅ Developed with ❤️ by Mahaveer Kuamr
